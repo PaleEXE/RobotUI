@@ -1,5 +1,5 @@
 {
-    "/assets/images/img1.jpg": {
+    "./assets/images/img1.jpg": {
         "status": "success",
         "message": "Potholes detected",
         "detections": [
@@ -16,7 +16,7 @@
         "count": 1,
         "date-time": "2025-05-09T18:11:03.005553"
     },
-    "/assets/images/img2.jpg": {
+    "./assets/images/img2.jpg": {
         "status": "success",
         "message": "Potholes detected",
         "detections": [
