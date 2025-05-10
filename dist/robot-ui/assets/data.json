@@ -1,0 +1,36 @@
+{
+    "assets/images/img1.jpg": {
+        "status": "success",
+        "message": "Potholes detected",
+        "detections": [
+            {
+                "bounding_box": {
+                    "x1": 243.74667358398438,
+                    "y1": 334.96527099609375,
+                    "x2": 1198.236328125,
+                    "y2": 812.6768798828125
+                },
+                "confidence": 0.9081088304519653
+            }
+        ],
+        "count": 1,
+        "date-time": "2025-05-09T18:11:03.005553"
+    },
+    "assets/images/img2.jpg": {
+        "status": "success",
+        "message": "Potholes detected",
+        "detections": [
+            {
+                "bounding_box": {
+                    "x1": 159.95028686523438,
+                    "y1": 173.9842987060547,
+                    "x2": 376.8047180175781,
+                    "y2": 265.74627685546875
+                },
+                "confidence": 0.9101872444152832
+            }
+        ],
+        "count": 1,
+        "date-time": "2025-05-09T18:11:03.472260"
+    }
+}
